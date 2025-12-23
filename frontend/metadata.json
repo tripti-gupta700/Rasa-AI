@@ -1,0 +1,7 @@
+{
+  "name": "Rasa AI",
+  "description": "An intelligent Ayurvedic health assistant providing remedies, herbal knowledge, and lifestyle guidance based on authentic principles.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
