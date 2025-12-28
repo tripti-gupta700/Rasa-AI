@@ -1,8 +1,0 @@
-{
-  "name": "Rasa AI",
-  "description": "An AI-powered chatbot for Healthcare, focusing on Ayurvedic guidance, symptom analysis, and emergency detection.",
-  "requestFramePermissions": [
-    "microphone",
-    "camera"
-  ]
-}

@@ -1,7 +1,8 @@
 {
   "name": "Rasa AI",
-  "description": "An intelligent Ayurvedic health assistant providing remedies, herbal knowledge, and lifestyle guidance based on authentic principles.",
+  "description": "An AI-powered chatbot for Healthcare, focusing on Ayurvedic guidance, symptom analysis, and emergency detection.",
   "requestFramePermissions": [
-    "microphone"
+    "microphone",
+    "camera"
   ]
 }
